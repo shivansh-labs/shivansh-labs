@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Shivansh Singh. I am from Guru Gobind Singh Indraprastha University taking Bachelors of Computer Applications.
 
 <!--
 **shivansh-labs/shivansh-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
